@@ -9,4 +9,4 @@ function pesoIdeal(a , s){
    }
    
 }
-console.log(pesoIdeal(1.69, 'M'))
+console.log(pesoIdeal(1.70, 'M'))

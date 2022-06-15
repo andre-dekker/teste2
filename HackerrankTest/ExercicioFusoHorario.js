@@ -15,7 +15,10 @@ return horas + fuso + ':' + '0' + minutos
 } 
 
 
+//alemanha - 
+//argentina - ?
+//fuso - -5
 
 
 
-console.log(fusoHorario(10, 05, -10))
+console.log(fusoHorario(4, 20, -3))
