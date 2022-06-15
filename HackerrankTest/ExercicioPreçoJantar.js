@@ -7,4 +7,4 @@ function totalPrice(a){
    console.log('Total: R$ ' + total + ',00')
 }
 
-totalPrice(80)
+totalPrice(100)
