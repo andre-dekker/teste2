@@ -1,6 +1,6 @@
 function pesoIdeal(a , s){
-   var homem = 22 * Math.pow(a, 2).toFixed(1) + ' Kg'
-   var mulher = 21 * Math.pow(a, 2).toFixed(1) + ' Kg'
+   var homem = 22 * Math.pow(a, 2).toFixed(2) + ' Kg'
+   var mulher = 21 * Math.pow(a, 2).toFixed(2) + ' Kg'
    var sexo = 'Feminino'
    if(s === 'Feminino'){
      return mulher
@@ -9,4 +9,4 @@ function pesoIdeal(a , s){
    }
    
 }
-console.log(pesoIdeal(1.70, 'M'))
+console.log(pesoIdeal(1.68, 'M'))
