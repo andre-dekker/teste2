@@ -17,4 +17,4 @@ function timeConversion(s) {
       return (`${hours}:${minutes}:${seconds}`);
    }
 }
-console.log(timeConversion('12:40:22AM'))
+console.log(timeConversion('12:40:22PM'))
