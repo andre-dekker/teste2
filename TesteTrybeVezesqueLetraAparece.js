@@ -12,4 +12,4 @@ function vezesLetraAparece(frase, letra) {
        return letra + " é uma consoante e aparece " + contador + " vezes na frase"
    }
 }
-console.log(vezesLetraAparece("The greatest glory in living lies not in never falling, but in rising every time we fall",'a'))
+console.log(vezesLetraAparece("The greatest glory in living lies not in never falling, but in rising every time we fall",'z'))
